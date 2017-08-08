@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Евразия</string>
+    <string name="title_activity_qwerty"></string>
+    <string name="title_activity_main2"></string>
+    <string-array name="names">
+        <item>Лагман 100 рублей</item>
+        <item>Ташкент 125 рублей</item>
+        <item>Цезарь 150 рублей</item>
+        <item>Саратон 115 рублей</item>
+        <item>Уха по-восточному 109 рублей</item>
+        <item>Шашлык из курицы 219 рублей</item>
+        <item>Шашлык из баранины 269 рублей</item>
+        <item>Шашлык из свинины 269 рублей</item>
+        <item>Калагач 225 рублей</item>
+        <item>Люля из курицы 139 рублей</item>
+        <item>Люля из баранины 179 рублей</item>
+        <item>Люля из говядины 209 рублей</item>
+        <item>Стейк из свинины 350 рублей</item>
+    </string-array>
+    <string name="title_activity_finish">finish</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
